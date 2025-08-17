@@ -6,9 +6,6 @@
 -- : dodaje element na pocetak liste
 -- [1, 2, 3] = 1 : (2 : (3 : []))
 
--- ++ sabira dve liste
--- [1, 2, 3] + [4, 5, 6] = [5, 7, 9]
-
 -- !! vraca elemnt na indeksu
 -- [12, 123, -34, 1234] !! 2  daje -34
 
